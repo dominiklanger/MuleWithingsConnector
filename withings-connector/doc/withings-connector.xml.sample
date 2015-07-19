@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(withings:greet) -->
+    <withings:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(withings:greet) -->
